@@ -1,0 +1,88 @@
+{
+    "created_at": "2018-09-06T14:45:36.850577",
+    "file_name": "000000233912.jpg",
+    "generator": "convert_to_region_cropper.py",
+    "labels": [
+        "position",
+        "left_eye",
+        "right_eye",
+        "left_cheek",
+        "right_cheek",
+        "nose_base",
+        "left_mouth",
+        "right_mouth",
+        "bottom_mouth"
+    ],
+    "regions": [
+        {
+            "label": 0,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.4375,
+                "left": 0.296875,
+                "right": 0.6328125,
+                "top": 0.015625
+            }
+        },
+        {
+            "label": 1,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.24290991,
+                "left": 0.508896,
+                "right": 0.508896,
+                "top": 0.24290991
+            }
+        },
+        {
+            "label": 2,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.24347132,
+                "left": 0.4315666,
+                "right": 0.4315666,
+                "top": 0.24347132
+            }
+        },
+        {
+            "label": 4,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.2903013,
+                "left": 0.57943195,
+                "right": 0.57943195,
+                "top": 0.2903013
+            }
+        },
+        {
+            "label": 5,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.30769432,
+                "left": 0.43729076,
+                "right": 0.43729076,
+                "top": 0.30769432
+            }
+        },
+        {
+            "label": 6,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.3401391,
+                "left": 0.49802008,
+                "right": 0.49802008,
+                "top": 0.3401391
+            }
+        },
+        {
+            "label": 8,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.35791877,
+                "left": 0.43645635,
+                "right": 0.43645635,
+                "top": 0.35791877
+            }
+        }
+    ]
+}
