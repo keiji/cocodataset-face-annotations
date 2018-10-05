@@ -1,0 +1,87 @@
+{
+    "file_name": "000000450087.jpg",
+    "generator": "convert_to_region_cropper.py",
+    "labels": [
+        "position",
+        "left_eye",
+        "right_eye",
+        "left_cheek",
+        "right_cheek",
+        "nose_base",
+        "left_mouth",
+        "right_mouth",
+        "bottom_mouth"
+    ],
+    "regions": [
+        {
+            "label": 0,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.55078125,
+                "left": 0.265625,
+                "right": 0.609375,
+                "top": 0.2265625
+            }
+        },
+        {
+            "label": 1,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.40534166,
+                "left": 0.49862954,
+                "right": 0.49862954,
+                "top": 0.40534166
+            }
+        },
+        {
+            "label": 2,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.39834282,
+                "left": 0.40995595,
+                "right": 0.40995595,
+                "top": 0.39834282
+            }
+        },
+        {
+            "label": 4,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.440453,
+                "left": 0.5593786,
+                "right": 0.5593786,
+                "top": 0.440453
+            }
+        },
+        {
+            "label": 5,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.45560157,
+                "left": 0.42483184,
+                "right": 0.42483184,
+                "top": 0.45560157
+            }
+        },
+        {
+            "label": 6,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.48999813,
+                "left": 0.47819826,
+                "right": 0.47819826,
+                "top": 0.48999813
+            }
+        },
+        {
+            "label": 8,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.49524167,
+                "left": 0.42574337,
+                "right": 0.42574337,
+                "top": 0.49524167
+            }
+        }
+    ]
+}

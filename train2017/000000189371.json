@@ -1,0 +1,67 @@
+{
+    "file_name": "000000189371.jpg",
+    "generator": "convert_to_region_cropper.py",
+    "labels": [
+        "position",
+        "left_eye",
+        "right_eye",
+        "left_cheek",
+        "right_cheek",
+        "nose_base",
+        "left_mouth",
+        "right_mouth",
+        "bottom_mouth"
+    ],
+    "regions": [
+        {
+            "label": 0,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.21875,
+                "left": 0.6640625,
+                "right": 0.8359375,
+                "top": 0.0
+            }
+        },
+        {
+            "label": 1,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.11624996,
+                "left": 0.7714836,
+                "right": 0.7714836,
+                "top": 0.11624996
+            }
+        },
+        {
+            "label": 2,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.11670171,
+                "left": 0.72691387,
+                "right": 0.72691387,
+                "top": 0.11670171
+            }
+        },
+        {
+            "label": 4,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.12919047,
+                "left": 0.803413,
+                "right": 0.803413,
+                "top": 0.12919047
+            }
+        },
+        {
+            "label": 5,
+            "probability": 0.999,
+            "rect": {
+                "bottom": 0.16128992,
+                "left": 0.7387893,
+                "right": 0.7387893,
+                "top": 0.16128992
+            }
+        }
+    ]
+}
