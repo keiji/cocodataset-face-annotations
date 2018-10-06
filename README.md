@@ -20,7 +20,7 @@ JSONデータは[Region Cropper 2.0](https://github.com/keiji/region_cropper)の
  8. bottom_mouth
 
 ----
-技術系同人誌オンリーイベント「技術書典5」向けのTensorFlow本を執筆する際、顔検出タスクのデータセットで適当なものが見つからなかったので作成しました。
+技術系同人誌オンリーイベント「[技術書典5](https://techbookfest.org/event/tbf05)」向けのTensorFlow本を執筆する際、顔検出タスクのデータセットで適当なものが見つからなかったので作成しました。
 
 技術書典5は2018年10月8日、池袋サンシャインで開催されます。
 
@@ -32,4 +32,4 @@ JSONデータは[Region Cropper 2.0](https://github.com/keiji/region_cropper)の
  |ページ数|本文60p|
  |頒布価格|1,000円|
  |発行|めがねをかけるんだ|
- |配置|え33|
+ |配置|[え33](https://techbookfest.org/event/tbf05/circle/47000001)|
