@@ -18,4 +18,18 @@ JSONデータは[Region Cropper 2.0](https://github.com/keiji/region_cropper)の
  6. left_mouth
  7. right_mouth
  8. bottom_mouth
- 
+
+----
+技術系同人誌オンリーイベント「技術書典5」向けのTensorFlow本を執筆する際、顔検出タスクのデータセットで適当なものが見つからなかったので作成しました。
+
+技術書典5は2018年10月8日、池袋サンシャインで開催されます。
+
+![表紙画像](https://blog.keiji.io/wp-content/uploads/2018/10/Lite_B5_hyoushi_4mm_1002_86-KB.jpg)
+
+ |タイトル|Liteな期待が重すぎる！ （茶色いトイプーは食べ物じゃないっ!?）|
+ |:---|:---|
+ |判型|B5 PDF|
+ |ページ数|本文60p|
+ |頒布価格|1,000円|
+ |発行|めがねをかけるんだ|
+ |配置|え33|
